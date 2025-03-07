@@ -50,7 +50,7 @@ public class TetrisGrid {
      * @return 2d grid array
      */
     boolean[][] getGrid() {
-        return null; // YOUR CODE HERE
+        return grid; // YOUR CODE HERE
     }
 
 }
